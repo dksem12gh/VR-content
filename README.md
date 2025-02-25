@@ -1,6 +1,6 @@
 # VR-content
 
-VR 체험 시뮬레이션
+VR 체험 시뮬레이션 플레이 영상
 
 [![Video Label](https://youtu.be/CJ9qSuLFqew/0.jpg)](https://youtu.be/CJ9qSuLFqew)
 
@@ -8,8 +8,6 @@ VR 체험 시뮬레이션
 
 [![Video Label](https://youtu.be/lOyOXAXHof8/0.jpg)](https://youtu.be/lOyOXAXHof8)
 
-Jacob’s Prison 플레이영상
+다른 유니티 버전으로 구동해서 오브젝트나 폰트가 조금 깨져보일수있습니다.
 
-Stage01 폴더에 회사 내부 라이브러리를 사용한 작업들을 제외한 스크립트 일부가 있습니다.
-
-플레이 화면에 보여지는 전반적인 기믹들과, Ui작업등을 했습니다.
+회사내의 라이브러리를 제외한 일부 스크립트, xlsx 파일은
