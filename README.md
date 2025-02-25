@@ -1,6 +1,6 @@
 # VR-content
 
-VR 체험 시뮬레이션 플레이 영상
+VR 체험 시뮬레이션 플레이 영상 (섬네일 오류라 클릭하면 연결된 영상 링크로 갑니다)
 
 [![Video Label](https://youtu.be/CJ9qSuLFqew/0.jpg)](https://youtu.be/CJ9qSuLFqew)
 
